@@ -1,0 +1,24 @@
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\bin\Debug\PipesInPool.exe.config
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\bin\Debug\PipesInPool.exe
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\bin\Debug\PipesInPool.pdb
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\obj\Debug\PipesInPool.csproj.AssemblyReference.cache
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\obj\Debug\PipesInPool.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\obj\Debug\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\obj\Debug\PipesInPool.exe
+C:\Users\bobyt\Desktop\VS FILES\Project\PipesInPool\obj\Debug\PipesInPool.pdb
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\bin\Debug\PipesInPool.exe.config
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\bin\Debug\PipesInPool.exe
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\bin\Debug\PipesInPool.pdb
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\obj\Debug\PipesInPool.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\obj\Debug\PipesInPool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\obj\Debug\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\obj\Debug\PipesInPool.exe
+C:\Users\Admin\Desktop\Zadacha-main\Project\PipesInPool\obj\Debug\PipesInPool.pdb
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\bin\Debug\PipesInPool.exe.config
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\bin\Debug\PipesInPool.exe
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\bin\Debug\PipesInPool.pdb
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\obj\Debug\PipesInPool.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\obj\Debug\PipesInPool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\obj\Debug\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\obj\Debug\PipesInPool.exe
+C:\Users\Admin\Desktop\Kursova rabota\Project\PipesInPool\obj\Debug\PipesInPool.pdb
